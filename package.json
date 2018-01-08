@@ -1,0 +1,20 @@
+{
+  "name": "contain",
+  "version": "0.1.0",
+  "description": "Contains the",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kloshih/contain.git"
+  },
+  "author": "Lo Shih <kloshih@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kloshih/contain/issues"
+  },
+  "homepage": "https://github.com/kloshih/contain#readme"
+}
