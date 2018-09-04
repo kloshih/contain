@@ -1,7 +1,7 @@
 {
   "name": "contain",
   "version": "0.1.0",
-  "description": "Contains the",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "cypress run",
