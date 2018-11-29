@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run",
-    "cypress:open": "cypress open"
+    "test": "mocha run"
   },
   "repository": {
     "type": "git",
